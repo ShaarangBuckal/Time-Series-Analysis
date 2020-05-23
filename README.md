@@ -11,5 +11,6 @@ Using time series analysis, we shall attempt to predict the precipitation in Wat
 
 # Data Source
 The Data is retrieved from Environment Canada, the data is authentic and clean. 
-
-'''Data Transformation and Cleaning (Description)'''
+```
+Data Transformation and Cleaning (Description)
+```
