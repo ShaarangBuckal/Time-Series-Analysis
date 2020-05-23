@@ -14,4 +14,4 @@ The Data is retrieved from Environment Canada, the data is authentic and clean.
 ```
 Data Transformation and Cleaning (Description)
 ```
-![](TimeSeriesAnalyisImages/e1.png)
+![](TimeSeriesAnalysisImages/e1.png)
